@@ -1,4 +1,4 @@
-# Image-Dehazing_cGAN
+# cGAN_YOLOv5
 <p align="justify">
 This repository is for research usage. Combining cGAN Image dehazing and YOLOv5 object detection, we hope the dehaze process can enhance the 
 object detection accuracy on the road. After getting the dehazed results from cGAN, it is then passed to the YOLOv5 model for detection.
